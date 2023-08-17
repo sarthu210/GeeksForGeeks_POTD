@@ -33,7 +33,7 @@ class GFG {
 
 class Solution {
 
-    Vector<Integer> generateNextPalindrome(int [], int n) {
+    Vector<Integer> generateNextPalindrome(int a[], int n) {
        
        Vector<Integer> ans = new Vector<>();
        
